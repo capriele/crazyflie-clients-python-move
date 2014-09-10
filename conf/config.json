@@ -1,0 +1,27 @@
+{
+  "client_side_holdmode": false, 
+  "client_side_xmode": false, 
+  "link_uri": "radio://0/80/250K", 
+  "input_device": "PS(R) Gamepad", 
+  "slew_limit": 45.0, 
+  "max_rp": 30, 
+  "ui_update_period": 100, 
+  "trim_pitch": 0.0, 
+  "device_config_mapping": {
+    "PLAYSTATION(R)3 Controller (00:23:06:C0:A3:FE)": "PS3_Mode_1", 
+    "Motion Controller": "PS4_Mode_2", 
+    "Sony PLAYSTATION(R)3 Controller": "PS3_Mode_1", 
+    "PS(R) Gamepad": "PS3_Mode_1", 
+    "Sony Playstation SixAxis/DS3": "PS3_Mode_1"
+  }, 
+  "slew_rate": 25.0, 
+  "auto_reconnect": true, 
+  "max_yaw": 180, 
+  "flightmode": "Advanced", 
+  "enable_debug_driver": false, 
+  "open_tabs": "Flight Control,Plotter,Parameters,Log Blocks", 
+  "input_device_blacklist": "(VirtualBox|VMware)", 
+  "trim_roll": 0.0, 
+  "max_thrust": 80.0, 
+  "min_thrust": 0.0
+}

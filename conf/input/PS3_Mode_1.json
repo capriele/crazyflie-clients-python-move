@@ -1,0 +1,122 @@
+{
+  "inputconfig": {
+    "inputdevice": {
+      "updateperiod": 10, 
+      "name": "PS3_Mode_1", 
+      "axis": [
+        {
+          "scale": -1.0, 
+          "type": "Input.AXIS", 
+          "id": 3, 
+          "key": "thrust", 
+          "name": "thrust"
+        }, 
+        {
+          "scale": 1.0, 
+          "type": "Input.AXIS", 
+          "id": 2, 
+          "key": "yaw", 
+          "name": "yaw"
+        }, 
+        {
+          "scale": 1.0, 
+          "type": "Input.AXIS", 
+          "id": 0, 
+          "key": "roll", 
+          "name": "roll"
+        }, 
+        {
+          "scale": -1.0, 
+          "type": "Input.AXIS", 
+          "id": 19, 
+          "key": "joy_yaw", 
+          "name": "joy_yaw"
+        }, 
+        {
+          "scale": -1.0, 
+          "type": "Input.AXIS", 
+          "id": 1, 
+          "key": "pitch", 
+          "name": "pitch"
+        }, 
+        {
+          "scale": -1.0, 
+          "type": "Input.BUTTON", 
+          "id": 8, 
+          "key": "pitchcal", 
+          "name": "pitchNeg"
+        }, 
+        {
+          "scale": 1.0, 
+          "type": "Input.BUTTON", 
+          "id": 13, 
+          "key": "flipright", 
+          "name": "flipright"
+        }, 
+        {
+          "scale": 1.0, 
+          "type": "Input.BUTTON", 
+          "id": 3, 
+          "key": "estop", 
+          "name": "killswitch"
+        }, 
+        {
+          "scale": 1.0, 
+          "type": "Input.BUTTON", 
+          "id": 7, 
+          "key": "viscousMode", 
+          "name": "viscousMode"
+        }, 
+        {
+          "scale": 1.0, 
+          "type": "Input.BUTTON", 
+          "id": 4, 
+          "key": "althold", 
+          "name": "althold"
+        }, 
+        {
+          "scale": 1.0, 
+          "type": "Input.BUTTON", 
+          "id": 1, 
+          "key": "exit", 
+          "name": "exitapp"
+        }, 
+        {
+          "scale": 1.0, 
+          "type": "Input.BUTTON", 
+          "id": 5, 
+          "key": "switchmode", 
+          "name": "switchmode"
+        }, 
+        {
+          "scale": 1.0, 
+          "type": "Input.BUTTON", 
+          "id": 8, 
+          "key": "pitchcal", 
+          "name": "pitchPos"
+        }, 
+        {
+          "scale": 1.0, 
+          "type": "Input.BUTTON", 
+          "id": 8, 
+          "key": "flipleft", 
+          "name": "flipleft"
+        }, 
+        {
+          "scale": 1.0, 
+          "type": "Input.BUTTON", 
+          "id": 8, 
+          "key": "rollcal", 
+          "name": "rollPos"
+        }, 
+        {
+          "scale": -1.0, 
+          "type": "Input.BUTTON", 
+          "id": 8, 
+          "key": "rollcal", 
+          "name": "rollNeg"
+        }
+      ]
+    }
+  }
+}
