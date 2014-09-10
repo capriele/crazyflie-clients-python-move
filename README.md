@@ -6,7 +6,7 @@ Motivations
 -----------
 
 The main reason for this project is to add the ability to have the northbound always in front of you. So thanks to psmoveapi combining the ps3 controller and the psmove controller in this way:
-![alt tag](https://raw.github.com/capriele/crazyflie-clients-python-move/images/ps3MoveController.jpg)
+![alt tag](https://raw.githubusercontent.com/capriele/crazyflie-clients-python-move/master/images/ps3MoveController.jpg)
 
 I've created a sort of pointer of the north.
 The most important difference from the "crazyflie-clients-python" is in input.py file in fact here I've ported the C code from sensfusion6.c (of the firmware).
